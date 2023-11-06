@@ -35,7 +35,7 @@
     position: absolute;
     width: fit-content;
     height: fit-content;
-    top: 60px;
+    top: 50px;
     right: 27px;
     background: none;
     transform: scale(1.2);
@@ -44,8 +44,9 @@
 }
 .logo {
     text-align: center;
-    font-size: 50px;
-    color: #4b0082;
+}
+.logo img {
+    width: 140px;
 }
 .confirmed input {
     color: #000;
